@@ -2,7 +2,7 @@
 
 Welcome to my tech blog — a space where I break down how technology and economics collide. I explore how monopolies, innovation, and regulation are shaping the digital world we live in.
 
-🔗 **Live Blog: (https://nateit1.github.io/23/)
+🔗 **Live Blog: (https://nateit1.github.io/Techblog/)
 
 ---
 
@@ -20,7 +20,7 @@ In this article, I explore:
 - Both the benefits and dangers of tech monopolies
 - Predictions for how monopolies may shape the future of digital life
 
-📖 [**Read the full article here →**](https://nateit1.github.io/23/)
+📖 [**Read the full article here →**](https://nateit1.github.io/Techblog/)
 
 ---
 
