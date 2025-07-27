@@ -2,9 +2,7 @@
 
 Welcome to my tech blog — a space where I break down how technology and economics collide. I explore how monopolies, innovation, and regulation are shaping the digital world we live in.
 
-🔗 **Live Blog: (https://nateit1.github.io/Techblog/)
 
----
 
 ## 📘 Featured Post
 
