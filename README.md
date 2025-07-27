@@ -39,7 +39,7 @@ I'm **Nathan Tsegai**, a senior at the University of Texas at Dallas studying **
 
 ## 📬 Connect with Me
 
-- 🌐 [Tech Blog (GitHub Pages)](https://nateit1.github.io/23/)  
+- 🌐 [Tech Blog (GitHub Pages)](https://nateit1.github.io/Techblog/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathantsegai/)  
 - 💻 [GitHub](https://github.com/nateit1)
 
