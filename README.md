@@ -42,11 +42,11 @@ This article discusses the shift from tech monopolies to more competitive digita
 
 ## 🧑‍💻 About Me
 
-I'm **Nathan Tsegai**, a senior at the University of Texas at Dallas studying **Computer Information Systems and Technology**. My passion lies in analyzing how innovation intersects with economics, ethics, and real-world applications of tech policy. I’ve also gained hands-on experience through internships, cybersecurity projects, and tech writing.
+I'm **Nathan Tsegai**, a senior at the University of Texas at Dallas studying **Computer Information Systems and Technology**. I’m passionate about exploring how innovation intersects with economics, ethics, and real-world technology policy. I’ve gained hands-on experience through internships, cybersecurity projects, and tech writing.
 
-- 🔐 Interested in cybersecurity & ethical tech
-- 📈 Focused on market power, digital trends & consumer impact
-- 📚 This blog started as a research paper in my ECON 2302 class
+- 🔐 Interested in cybersecurity & ethical tech  
+- 📈 Focused on market power, digital trends & consumer impact  
+- 📚 This blog began as a research project in my ECON 2302 class  
 
 ---
 
