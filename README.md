@@ -9,6 +9,11 @@ Welcome to my tech blog — a space where I break down how technology and econom
 ### 💡 *Technology’s New Reality: How Monopolies Are Dominating the Tech World*
 **Published:** July 25, 2025  
 **Author:** Nathan Tsegai  
+<img width="468" height="718" alt="Untitled3" src="https://github.com/user-attachments/assets/556ca4be-01d1-4f9e-ba74-69a00264195f" />
+<img width="709" height="682" alt="Untitled 26" src="https://github.com/user-attachments/assets/55d763a5-77d0-40d4-8201-5440b56fddc8" />
+<img width="705" height="345" alt="Untitled7" src="https://github.com/user-attachments/assets/018f766c-9824-4995-a916-5e67a71bb468" />
+
+
 
 In this article, I explore:
 - What monopolies are and how they apply to tech
